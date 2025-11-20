@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Jailbreak Prompt Generator",
+  "description": "An application to generate and test various 'jailbreak' prompts against AI models using different techniques. Input a query, select a technique, and see both the generated prompt and the AI's response.",
+  "requestFramePermissions": []
+}
